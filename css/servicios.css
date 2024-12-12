@@ -1,0 +1,16 @@
+h1{
+    padding-top: 50px;
+}
+
+p{
+    font-size: 20px;
+}
+.servicios { 
+    display: flex;
+    gap: 50px;
+    padding-top: 50px;
+    align-items: center;
+   }
+.icono{
+    font-size:30px ;
+}
