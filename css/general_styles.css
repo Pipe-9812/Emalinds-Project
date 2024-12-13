@@ -53,3 +53,15 @@
     max-height: 50vh;
     border-radius: 1rem;
 }
+
+.form-contacto {
+    label {
+        color: gray;
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    textarea {
+        height: 200px !important;
+    }
+}
