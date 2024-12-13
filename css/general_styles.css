@@ -65,3 +65,10 @@
         height: 200px !important;
     }
 }
+
+.nav-st {
+    background-color: rgba(148, 43, 101, 0.6);
+    backdrop-filter: blur(7px);
+    -webkit-backdrop-filter: blur(7px);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
